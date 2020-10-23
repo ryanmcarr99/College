@@ -5,8 +5,8 @@ import sys
 import binascii
 import Padding
 
-val='hello'
-password='hello'
+val='kettle'
+password='oxtail'
 
 plaintext=val
 

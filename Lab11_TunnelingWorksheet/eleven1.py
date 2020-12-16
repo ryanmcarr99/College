@@ -1,5 +1,4 @@
-# Code from 
-https://github.com/TrullJ/ssllabs/blob/master/ssllabsscanner.py
+# Code from https://github.com/TrullJ/ssllabs/blob/master/ssllabsscanner.py
 import requests
 import time
 import sys
@@ -42,8 +41,7 @@ ignoreMismatch='on'):
      path = 'analyze'
      payload = {
                   'host': host,
-                  'publish
-                  ': publish,
+                  'publish': publish,
                   'startNew': startNew,
                   'all': all,
                   'ignoreMismatch': ignoreMismatch

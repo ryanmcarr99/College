@@ -1,0 +1,2 @@
+The flag is the name we give groups with a commutative operation. 
+Answer: Abelian
